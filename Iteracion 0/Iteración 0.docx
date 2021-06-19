@@ -1,0 +1,148 @@
+Nombre del proyecto: Itzamara Store
+
+Descripción del proyecto
+
+Itzamara Store es el negocio de una mujer emprendedora que se ha dedicado a la venta de varios de los productos de catálogo. El proyecto de Itzamara Store será una página web en la cuál se muestren los productos que puede ofrecer en un amplio catálogo y permita la compra de estos a sus clientes, además Itzamara Store ayudará a su dueña en sus actividades como lo pueden ser promocionar sus productos a través de las redes sociales o de los servicios de mensajería como Whatsapp y ayudar a su dueña con el registro de ventas y compras.
+
+
+Visión del producto:
+Itzamara Store no busca ser el típico sistema de tienda en línea, a Itzamara Store le interesa que sus clientes sigan recibiendo información de novedades, productos y campañas, además de cumplir con las solicitudes por estos para así obtener la mayor selección y disponibilidad de productos de la forma más cómoda posible.
+
+Perspectiva del producto:
+Se planea implementar un sistema que permita mostrar y organizar los productos que posee la dueña de Itzamara Store, además que permita registrar todas las ventas y compras efectuadas por sus clientes y proveedores respectivamente para ser mostradas a la dueña. El sistema a implementarse es un software independiente que no tendrá relación con otros sistemas.
+
+Funciones del producto:
+•	Registrar cada venta 
+•	Registrar los pagos de los productos
+•	Mostrar los productos en un catálogo
+•	Mostrar la información de un producto seleccionado
+•	Almacenar los datos de los clientes, proveedores y el administrador
+•	Llevar a cabo el manejo de inventario e informar si un producto se queda sin existencias
+•	Notificar a los clientes acerca de promocione y productos
+•	Permitir la solicitud de un producto que no esté en el catálogo
+
+Objetivos del proyecto:
+
+Objetivo general:
+Crear un sistema que logré la correcta implementación de un catálogo y un sistema de ventas establecido por la dueña de Itzamara Store, con el desarrollo del sistema se pretende ayudar con el registro y visualización de las ventas y facilitar el acceso a la información de los productos y la compra de estos, así como la comunicación con sus clientes.
+
+Objetivos específicos:
+•	Desarrollar un sistema que permita a los clientes observar el catálogo de productos y realizar compras de los productos mostrados.
+
+•	Lograr que la dueña de Itzamara Store tenga un registro de ventas automático y pueda visualizar esta información.
+
+•	Ayudar a la dueña de Itzamara Store con el manejo de inventario mostrando notificaciones cuando se agote un producto.
+
+•	Implementar el envío de promociones, ofertas e información de productos a los clientes
+
+Definición de Stakeholders
+
+Cliente: Dueña de Itzamara Store, es la inversora del proyecto, por lo tanto, recibirá información precisa y oportuna del desarrollo de este. La dueña de Itzamara Store aprobará o rechazará las acciones que se realizan durante el desarrollo del proyecto.
+
+Actores: 
+•	Clientes: los clientes son los que interactuarán directamente con el sistema para poder observar los productos, realizar compras y recibir promociones e información.
+
+Equipo de desarrollo: 
+
+•	Jose Alberto Rivera Lara - Analista
+•	Juan Jose Rios Alonso – Desarrollador Back-end
+•	Luis Angel Cabrera Garcia – Desarrollador Font-end
+•	Rafael Hayyim Medina Sosa – Desarrollador de bases de datos
+
+Cronograma
+ 
+ 
+
+Artefactos por iteración:
+
+Iteración 0:
+•	Nombre del Proyecto
+•	Descripción del Proyecto
+•	Objetivos del Proyecto
+•	Definición de Stakeholders
+•	Modelo de Procesos de Desarrollo
+•	Herramientas de software empleadas
+
+
+
+
+
+
+
+
+Iteración 1:
+
+•	Reglas del Negocio (RN)
+•	Documento de Especificación de Requerimientos
+Modelo de Casos de Uso
+•	Definición de Actores
+•	Especificación en texto de Casos de Uso
+•	Diagrama de Contexto del Sistema usando un diagrama General de Casos de Uso
+•	Diagramas de Casos de Uso
+Avance (incremento) en el producto de SW
+
+Iteración 2:
+Modelo de Dominio 
+•	Heurísticas del descubrimiento de abstracciones clave del sistema
+•	CRC
+•	Diagrama de Clases, relaciones y sus refinamientos
+•	Diagrama de Actividades de los procesos de negocio
+•	Diagrama de Paquetes
+Modelo Diseño
+•	Diagrama de Objetos
+•	Diagrama de Máquinas de Estado
+•	Análisis de Robustez
+•	Diagramas de Interacción: Secuencia y Comunicación
+
+Iteración 3:
+•	Integrantes del equipo de Desarrollo 
+•	Planteamiento del problema
+•	Propuesta de Solución
+•	Especificación de requerimientos
+•	Especificación de Reglas de Negocio
+•	Modelo de Casos de Uso
+•	Modelo de Dominio 
+•	Modelo de Diseño
+o	Diagrama de Paquetes, 
+o	Diagrama de Objetos
+o	Diagramas de Máquinas de Estados
+o	Diagramas de Robustez
+o	Diagramas de Interacción
+•	Modelo Lógico
+•	Modelo de Despliegue
+•	Modelo de Datos
+•	Diseño de Interfaces Gráficas de Usuarios 
+
+
+
+Herramientas de software empleadas: 
+HTML5 
+HTML significa Lenguaje de Marcado de Hipertexto, en inglés HyperText Markup Language. HTML no es un lenguaje de programación, lo que significa que no tiene la capacidad de crear una funcionalidad dinámica. En cambio, hace posible organizar y formatear documentos. 
+•	HyperText, cuyo significado es hipertexto, que no es más que un texto que enlaza con otros contenidos, que pueden ser otro texto u otro archivo. Esto es la base del funcionamiento de la web tal y como la conocemos, que no es más que páginas y recursos interconectados. 
+•	Markup, que significa marca o etiqueta, ya que todas las páginas web están construidas en base a etiquetas, desde las primeras versiones hasta las últimas etiquetas de HTML5.  
+•	Language, cuyo significado es lenguaje, porque HTML es un lenguaje, es decir, tiene sus normas, tiene su estructura y una serie de convenciones que nos sirven para definir tanto la estructura como el contenido de una web. 
+ Ahora HTML5 puede definirse como un estándar que sirve para definir la estructura y el contenido de una página web. 
+
+JAVASCRIPT 
+JavaScript (JS) es un lenguaje de programación ligero o de secuencias de comandos que te permite implementar funciones complejas en páginas web. Si bien es más conocido como un lenguaje de scripting (secuencias de comandos) para páginas web, y es usado en muchos entornos fuera del navegador. JavaScript es un lenguaje de programación basada en prototipos, multiparadigma, de un solo hilo, dinámico, con soporte para programación orientada a objetos, imperativa y declarativa. 
+El estándar para JavaScript es ECMAScript. A partir del 2012, todos los navegadores modernos soportan completamente ECMAScript 5.1. Los navegadores viejos soportan al menos ECMAScript 3. Desde junio 17, 2015, ECMA International publico la sexta versión principal de ECMAScript, que oficialmente se llama ECMAScript 2015, y que inicialmente se denominó ECMAScript 6 o ES6. Desde entonces, los estándares ECMAScript están en ciclos de lanzamiento anuales.
+ 
+CSS 
+CSS (en inglés Cascading Style Sheets) es lo que se denomina lenguaje de hojas de estilo en cascada y se usa para estilizar elementos escritos en un lenguaje de marcado como HTML. CSS separa el contenido de la representación visual del sitio. 
+CSS es uno de los lenguajes base de la Open Web y posee una especificación estandarizada por parte del W3C.  
+
+PHP 
+PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de scripting de código abierto, del lado del servidor, con programación HTML integrada que se utiliza para crear páginas web dinámicas. Las ventajas de PHP son su flexibilidad y su alta compatibilidad con otras bases de datos. 
+Lo que distingue a PHP de algo del lado del cliente como Javascript es que el código es ejecutado en el servidor, generando HTML y enviándolo al cliente. El cliente recibirá el resultado de ejecutar el script, aunque no se sabrá el código subyacente que era. 
+
+SQL 
+SQL es un acrónimo en inglés para Structured Query Language.  Un Lenguaje de Consulta Estructurado. Un tipo de lenguaje de programación que te permite manipular y descargar datos de una base de datos. Tiene capacidad de hacer cálculos avanzados y álgebra. Es utilizado en la mayoría de las empresas que almacenan datos en una base de datos. Ha sido y sigue siendo el lenguaje de programación más usado para bases de datos relacionales. 
+Dada su fuerte conexión con la teoría del modelo relacional, SQL es un lenguaje de alto nivel orientado a conjuntos de registros. Esto implica que un solo comando SQL puede equivaler a decenas o cientos de líneas de código que se tendrían que utilizar en un lenguaje de más bajo nivel orientado a registros 
+ 
+Visual Paradigm  
+Visual Paradigm es una herramienta CASE: Ingeniería de Software Asistida por Computación. La misma propicia un conjunto de ayudas para el desarrollo de programas informáticos, desde la planificación, pasando por el análisis y el diseño, hasta la generación del código fuente de los programas y la documentación. 
+Visual Paradigm ha sido concebida para soportar el ciclo de vida completo del proceso de desarrollo del software a través de la representación de todo tipo de diagramas. Constituye una herramienta privada disponible en varias ediciones, cada una destinada a satisfacer diferentes necesidades: Enterprise, Professional, Community, Standard, Modeler y Personal. Existe una alternativa libre y gratuita de este software, la versión Visual Paradigm UML 6.4 Community Edition (Community Edition, ya que existe la Enterprise, Professional, etc). Fue diseñado para una ámplia gama de usuarios interesados en la construcción de sistemas de software de forma fiable a través de la utilización de un enfoque Orientado a Objetos 
+
+Visual Studio Code 
+Visual Studio Code. Es un editor de código fuente desarrollado por Microsoft para Windows, Linux y macOS. Incluye soporte para depuración, control de Git integrado, resaltado de sintaxis, finalización de código inteligente, fragmentos de código y refactorización de código. También es personalizable, de modo que los usuarios pueden cambiar el tema del editor, los métodos abreviados de teclado y las preferencias. Es gratuito y de código abierto. 
+Un aspecto fundamental de un editor de código es que podamos utilizarlo con los lenguajes de programación que trabajamos a diario. Visual Studio Code es una herramienta que tiene soporte nativo para gran variedad de lenguajes, entre ellos podemos destacar los principales del desarrollo Web: HTML, CSS, y JavaScript, entre otros. 
