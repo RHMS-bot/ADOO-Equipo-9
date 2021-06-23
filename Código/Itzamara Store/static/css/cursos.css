@@ -1,9 +1,0 @@
-.curso {
-    transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-}
-
-.curso:hover {
-    transform: scale(1..05);
-    -webkit-transform: scale(1.05);
-}
